@@ -11,8 +11,8 @@ It is to demonstrate this issue: https://www.reddit.com/r/jailbreak/comments/3br
 
 ## Requirements
 
-> An Apple device jailbroken on iOS 8.3 or 8.4 (someone confirm this if it can run on other devices as well as intended)
+- An Apple device jailbroken on iOS 8.3 or 8.4 (someone confirm this if it can run on other devices as well as intended)
 
-> Apple Developer Account (or use Appsync Unified from Karen's Repo)
+- Apple Developer Account (or use Appsync Unified from Karen's Repo)
 
 Note: I'm really bad at writing descriptions of a lot of things so this may seem like it's not enough
